@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "주다",
+        "age": 24,
+        "personalColor": "blue"
+    },
+    {
+        "id": 2,
+        "name": "선오",
+        "age": 28,
+        "personalColor": "pink"
+    },
+    {
+        "id": 3,
+        "name": "고토",
+        "age": 23,
+        "personalColor": "green"
+    },
+    {
+        "id": 4,
+        "name": "선주",
+        "age": 30,
+        "personalColor": "red"
+    },
+    {
+        "id": 5,
+        "name": "미주",
+        "age": 32,
+        "personalColor": "yellow"
+    },
+]
